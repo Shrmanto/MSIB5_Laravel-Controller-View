@@ -20,3 +20,4 @@ Route::get('/', function () {
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/profile', [App\Http\Controllers\ProfilController::class, 'index'])->name('profile');
+Route::get('/univ', [App\Http\Controllers\UniversitasController::class, 'index'])->name('univ');

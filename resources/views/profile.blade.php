@@ -25,10 +25,10 @@
                         <a class="nav-link" aria-current="page" href="{{route('home')}}">Home</a>
                     </li>
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="#">Profile</a>
+                        <a class="nav-link" href="{{route('profile')}}">Profile</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">University</a>
+                        <a class="nav-link" href="{{route('univ')}}">University</a>
                     </li>
                     <button class="btn ms-3 rounded-0"><i class="fa-solid fa-envelope" style="color: #ffffff;"></i></button>
                 </ul>

@@ -7,8 +7,8 @@
     <title>Document</title>
     {{-- Style Bootstrap --}}
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    {{-- Style Css Home --}}
-    <link rel="stylesheet" href="{{ asset('assets/css/home/style.css') }}">
+    {{-- Style Css Profile --}}
+    <link rel="stylesheet" href="{{ asset('assets/css/univ/style.css') }}">
     {{-- Style Fontawesome --}}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
@@ -36,35 +36,23 @@
         </div>
     </nav>
 
-    <section id="hero">
-        <div class="jdl">
-            <div class="content-img d-flex justify-content-center align-items-center" style="min-height: 100vh">
-                <div class="container text-overlay d-flex align-items-center" style="min-height: 100vh">
-                    <div class="row">
-                        <div class="col-lg-4">
-                            <h4>Hi, I am <span style="font-size: 2.5rem; font-weight:700; color:#FFB100">Suhermanto</span></h4>
-                            <h1 style="font-weight: 700">A Creative Designer and Frontend Developer</h1>
-                            <div class="mb-3" style="border-bottom: 5px solid #FFB100"></div>
-                            <p class="mb-4" style="font-size: 1.2rem">I am a 5th semester student from the University of Jember, faculty of computer science majoring in informatics. Own interest in the world of design, web design, web development, game design, and game development.</p>
-                            <button class="btn me-2 rounded-0"><i class="fa-solid fa-envelope me-2" style="color: #ffffff;"></i>Contact Me</button>
-                        </div>
-                        <div class="offset-lg-3 offset-md-0 col-lg-5 col-md-6 pt-5" style="padding-left: 230px">
-                            <h3 style="color: #2d2d39;">Service.</h3>
-                            <p style="color: #2d2d39; font-size: 1.2rem">Let's make the world of design more fun.</p>
-                            <div class="me-link my-4">
-                                <a href="" ><i class="fa-brands fa-instagram fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                <a href="" class="mx-3"><i class="fa-brands fa-facebook fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                <a href=""><i class="fa-brands fa-github fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                <a href="" class="mx-3"><i class="fa-brands fa-linkedin fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                            </div>
-                            <div class="down-resume mt-4">
-                                <a href="" style="text-decoration: none; color:#2d2d39"><i class="fa-solid fa-file-arrow-down fa-2xl me-2" style="color: #FFB100"></i>Download Resume</a>
-                            </div>
-                        </div>
+    <section id="univ">
+        <div class="container">
+            <div class="bg-univ mb-xl-5">
+                <img src="{{asset('assets/img/unej.jpg')}}" alt="" width="100%" class="pt-xl-5 pt-lg-5 pt-md-3" style="margin-top: 5rem">
+            </div>
+            <div class="sejarah-univ">
+                <h1>Sejarah</h1>
+                <div class="row">
+                    <div class="col-xl-5 d-flex align-items-center">
+                        <p>Universitas Jember bermula dari gagasan dr. R. Achmad, R. Th. Soengedi, dan R. M. Soerachman pada tahun 1957. Mereka membentuk Panitia Triumviraat dan kemudian mendirikan Yayasan Universitas Tawang Alun pada tahun 1958. Universitas Tawang Alun disingkat menjadi UNITA.
+                            Dengan dukungan Bupati Jember, R. Soedjarwo, Universitas Negeri Djember (UNED) didirikan berdasarkan Surat Keputusan Menteri PTIP No. 151 Tahun 1964. UNED awalnya terdiri dari lima fakultas dan dipimpin oleh dr. R. Achmad. Kepemimpinan rektor kemudian dipegang oleh berbagai tokoh hingga tahun 1986.
+                            Pada tahun 1986, rektor UNED pertama kali dijabat oleh sivitas akademika sendiri, Prof. Dr. Simanhadi Widyaprakosa. Kemudian, beberapa rektor lainnya memimpin universitas ini hingga saat ini, termasuk Drs. Moh. Hasan, Msc Ph.D. (2012-2020) dan Dr. Ir. Iwan Taruna, M.Eng. (sekarang).</p>
+                    </div>
+                    <div class="offset-xl-1 col-xl-6 d-flex justify-content-center">
+                        <img src="{{asset('assets/img/logo-unej.png')}}" alt="" width="50%">
                     </div>
                 </div>
-                <img src="{{asset('assets/img/profilehome.png')}}" alt="" width="30%" class="profile">
-                <img src="{{asset('assets/img/blob-1.svg')}}" alt="" width="55%" class="bg-edit">
             </div>
         </div>
     </section>

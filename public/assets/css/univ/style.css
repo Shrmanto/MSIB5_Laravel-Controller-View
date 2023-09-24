@@ -1,7 +1,5 @@
 body {
     background-color: #f2efe6;
-    overflow-y: hidden;
-    overflow-x: hidden;
 }
 
 .navbar-brand {
@@ -25,11 +23,6 @@ body {
     /* border-bottom: 2px solid #2d2d39; */
 }
 
-.jdl {
-    padding: 1.4rem 7%;
-    min-height: 100vh;
-}
-
 .btn {
     padding: 5px 15px;
     background-color: #ffb100;
@@ -43,19 +36,4 @@ body {
 
 .container {
     padding: 1.4rem 7%;
-}
-
-.profile {
-    position: absolute;
-    z-index: -5;
-}
-
-.bg-edit {
-    position: absolute;
-    transform: rotate(35deg);
-    z-index: -10;
-    -webkit-transform: rotate(35deg);
-    -moz-transform: rotate(35deg);
-    -ms-transform: rotate(35deg);
-    -o-transform: rotate(35deg);
 }
