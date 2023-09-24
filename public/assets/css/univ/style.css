@@ -37,3 +37,37 @@ body {
 .container {
     padding: 1.4rem 7%;
 }
+
+.sejarah-univ h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.sejarah-univ p {
+    text-align: justify;
+    font-size: 1.3rem;
+}
+
+.title {
+    background-color: #e0d7be;
+    padding: 10px;
+}
+
+.title h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.desc {
+    background-color: #e0d7be;
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.desc p {
+    font-size: 1.2rem;
+}

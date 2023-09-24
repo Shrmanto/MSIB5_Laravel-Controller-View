@@ -41,16 +41,37 @@
             <div class="bg-univ mb-xl-5">
                 <img src="{{asset('assets/img/unej.jpg')}}" alt="" width="100%" class="pt-xl-5 pt-lg-5 pt-md-3" style="margin-top: 5rem">
             </div>
-            <div class="sejarah-univ">
-                <h1>Sejarah</h1>
-                <div class="row">
-                    <div class="col-xl-5 d-flex align-items-center">
-                        <p>Universitas Jember bermula dari gagasan dr. R. Achmad, R. Th. Soengedi, dan R. M. Soerachman pada tahun 1957. Mereka membentuk Panitia Triumviraat dan kemudian mendirikan Yayasan Universitas Tawang Alun pada tahun 1958. Universitas Tawang Alun disingkat menjadi UNITA.
-                            Dengan dukungan Bupati Jember, R. Soedjarwo, Universitas Negeri Djember (UNED) didirikan berdasarkan Surat Keputusan Menteri PTIP No. 151 Tahun 1964. UNED awalnya terdiri dari lima fakultas dan dipimpin oleh dr. R. Achmad. Kepemimpinan rektor kemudian dipegang oleh berbagai tokoh hingga tahun 1986.
-                            Pada tahun 1986, rektor UNED pertama kali dijabat oleh sivitas akademika sendiri, Prof. Dr. Simanhadi Widyaprakosa. Kemudian, beberapa rektor lainnya memimpin universitas ini hingga saat ini, termasuk Drs. Moh. Hasan, Msc Ph.D. (2012-2020) dan Dr. Ir. Iwan Taruna, M.Eng. (sekarang).</p>
+            <div class="sejarah-univ mb-xl-5">
+                <h1 class="mb-xl-4 text-center">📚Sejarah📚</h1>
+                <div class="mb-3" style="border-bottom: 5px solid #FFB100"></div>
+                <p>Cikal bakal Universitas Jember berasal dari gagasan dr. R. Achmad bersama-sama dengan R. Th. Soengedi dan R. M. Soerachman yang bercita-cita mendirikan perguruan tinggi di Jember. Untuk mewujudkan cita-cita tersebut pada tanggal 1 April 1957, ketiganya membentuk panitia yang diberi nama Panitia Triumviraat dengan komposisi Ketua dr. R. Achmad; Penulis R. Th. Soengedi, dan Bendahara R. M. Soerachman. Selanjutnya Panitia Triumviraat ini pada tanggal 5 Oktober 1957 membentuk yayasan dengan nama Yayasan Universitas Tawang Alun (disahkan dengan Akta Notaris tanggal 8 Maret 1958 Nomor 13 di Jember). Yayasan Universitas Tawang Alun inilah yang kemudian mendirikan universitas swasta di Jember dengan nama Universitas Tawang Alun yang kemudian disingkat UNITA.</p>
+                <p>Dalam perjalanannya, ketiga tokoh tersebut mendapatkan dukungan penuh Bupati Jember saat itu, R. Soedjarwo. Berdasarkan Surat Keputusan Menteri PTIP No. 151 Tahun 1964 tanggal 9 Nopember 1964, tentang didirikannya Universitas Negeri di Jember. Usaha tanpa kenal lelah sejak tahun 1957 itu akhirnya berhasil menjadi kenyataan, Universitas Negeri Djember berdiri ! Pada awal berdirinya pada tahun 1964, Universitas Negeri Djember yang disingkat UNED, memiliki lima fakultas, terdiri dari Fakultas Hukum di Jember, dengan cabangnya di Banyuwangi, Fakultas Sosial dan Politik dan Fakultas Pertanian di Jember, Fakultas Ekonomi dan Fakultas Sastra di Banyuwangi. Dengan rektor pertama dijabat oleh dr. R. Achmad. Kepemimpinan dr. R. Achmad dilanjutkan oleh Letkol. R. Winoto (1966-1967), Letkol Soedi Harjohoedojo (1967-1969), Letkol. Soetardjo, SH (1969-1978) dan Kol. Drs. H. R. Warsito (1978-1986).</p>
+                <p>Baru semenjak tahun 1986, rektor Universitas Jember dijabat oleh sivitas akademika-nya sendiri, yakni oleh Prof. Dr. Simanhadi Widyaprakosa (1986-1995), Prof. Dr. Kabul Santoso, MS (1995-2003), Dr. Ir. T. Sutikto, MSc (2003-2011), Drs. Moh. Hasan, Msc Ph.D. (2012-2020) dan Dr. Ir. Iwan Taruna, M.Eng. (2020 sampai sekarang)</p>
+            </div>
+            <div class="row">
+                <div class="col-xl-6">
+                    <div class="visi text-center">
+                        <div class="title">
+                            <h1>Visi</h1>
+                        </div>
+                        <div class="mb-3" style="border-bottom: 5px solid #FFB100"></div>
+                        <div class="desc">
+                            <p>Menjadi Universitas unggul dalam pengembangan sains, teknologi, dan seni berwawasan lingkungan, bisnis, dan pertanian industrial.</p>
+                        </div>
                     </div>
-                    <div class="offset-xl-1 col-xl-6 d-flex justify-content-center">
-                        <img src="{{asset('assets/img/logo-unej.png')}}" alt="" width="50%">
+                </div>
+                <div class="col-xl-6">
+                    <div class="misi">
+                        <div class="title">
+                            <h1 class="text-center">Misi</h1>
+                        </div>
+                        <div class="mb-3" style="border-bottom: 5px solid #FFB100"></div>
+                        <div class="desc">
+                            <p>– Menyelenggarakan dan mengembangkan pendidikan akademik, vokasi, dan profesi yang berkualitas, berwawasan lingkungan, bisnis, dan pertanian industrial serta bereputasi internasional.</p>
+                            <p>– Menghasilkan dan mengembangkan sains, teknologi dan seni melalui proses pembelajaran, penelitian dan pengabdian kepada masyarakat yang kreatif, inovatif, dan bernilai.</p>
+                            <p>– Mengembangkan sistem pengelolaan universitas yang transparan dan akuntabel berbasis teknologi informasi.</p>
+                            <p>– Mengembangkan jejaring kerja sama dengan pemangku kepentingan untuk meningkatkan kapasitas dan kapabilitas UNEJ.</p>
+                        </div>
                     </div>
                 </div>
             </div>
