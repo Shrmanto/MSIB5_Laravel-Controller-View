@@ -1,0 +1,60 @@
+body {
+    background-color: #f2efe6;
+    overflow-y: hidden;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #2d2d39;
+}
+
+.nav-item .nav-link {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #2d2d39;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.nav-item .nav-link:hover {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #ffb100;
+    /* border-bottom: 2px solid #2d2d39; */
+}
+
+.jdl {
+    padding: 1.4rem 7%;
+    min-height: 100vh;
+}
+
+.btn {
+    padding: 5px 15px;
+    background-color: #ffb100;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #ff9100;
+    color: white;
+}
+
+.container {
+    padding: 1.4rem 7%;
+}
+
+.profile {
+    position: absolute;
+    z-index: -5;
+}
+
+.bg-edit {
+    position: absolute;
+    transform: rotate(35deg);
+    z-index: -10;
+    -webkit-transform: rotate(35deg);
+    -moz-transform: rotate(35deg);
+    -ms-transform: rotate(35deg);
+    -o-transform: rotate(35deg);
+}
