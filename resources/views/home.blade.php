@@ -48,17 +48,19 @@
                             <p class="mb-4" style="font-size: 1.2rem">I am a 5th semester student from the University of Jember, faculty of computer science majoring in informatics. Own interest in the world of design, web design, web development, game design, and game development.</p>
                             <button class="btn me-2 rounded-0"><i class="fa-solid fa-envelope me-2" style="color: #ffffff;"></i>Contact Me</button>
                         </div>
-                        <div class="offset-lg-3 offset-md-0 col-lg-5 col-md-6 pt-5" style="padding-left: 230px">
-                            <h3 style="color: #2d2d39;">Service.</h3>
-                            <p style="color: #2d2d39; font-size: 1.2rem">Let's make the world of design more fun.</p>
-                            <div class="me-link my-4">
-                                <a href="" ><i class="fa-brands fa-instagram fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                <a href="" class="mx-3"><i class="fa-brands fa-facebook fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                <a href=""><i class="fa-brands fa-github fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                <a href="" class="mx-3"><i class="fa-brands fa-linkedin fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                            </div>
-                            <div class="down-resume mt-4">
-                                <a href="" style="text-decoration: none; color:#2d2d39"><i class="fa-solid fa-file-arrow-down fa-2xl me-2" style="color: #FFB100"></i>Download Resume</a>
+                        <div class="offset-lg-2 offset-md-0 offset-sm-0 col-xl-6 col-lg-6 col-sm-6 pt-xl-5 d-flex pt-lg-5 pt-md-5 pt-sm-5 pt-5 justify-content-xl-end justify-content-lg-end">
+                            <div class="content">
+                                <h3 style="color: #2d2d39;">Service.</h3>
+                                <p style="color: #2d2d39; font-size: 1.2rem">Let's make the world of design more fun.</p>
+                                <div class="me-link my-4">
+                                    <a href="" ><i class="fa-brands fa-instagram fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
+                                    <a href="" class="mx-3"><i class="fa-brands fa-facebook fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
+                                    <a href=""><i class="fa-brands fa-github fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
+                                    <a href="" class="mx-3"><i class="fa-brands fa-linkedin fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
+                                </div>
+                                <div class="down-resume mt-4">
+                                    <a href="" style="text-decoration: none; color:#2d2d39"><i class="fa-solid fa-file-arrow-down fa-2xl me-2" style="color: #FFB100"></i>Download Resume</a>
+                                </div>
                             </div>
                         </div>
                     </div>
