@@ -41,7 +41,7 @@
             <div class="content-img d-flex justify-content-center align-items-center" style="min-height: 100vh">
                 <div class="container text-overlay d-flex align-items-center" style="min-height: 100vh">
                     <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-xl-4 col-lg-4 col-12">
                             <h4>Hi, I am <span style="font-size: 2.5rem; font-weight:700; color:#FFB100">Suhermanto</span></h4>
                             <h1 style="font-weight: 700">A Creative Designer and Frontend Developer</h1>
                             <div class="mb-3" style="border-bottom: 5px solid #FFB100"></div>
