@@ -53,10 +53,10 @@
                                 <h3 style="color: #2d2d39;">Service.</h3>
                                 <p style="color: #2d2d39; font-size: 1.2rem">Let's make the world of design more fun.</p>
                                 <div class="me-link my-4">
-                                    <a href="" ><i class="fa-brands fa-instagram fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                    <a href="" class="mx-3"><i class="fa-brands fa-facebook fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                    <a href=""><i class="fa-brands fa-github fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
-                                    <a href="" class="mx-3"><i class="fa-brands fa-linkedin fa-2xl" style="color: #2d2d39; font-size: 2.5rem"></i></a>
+                                    <a href="" class="icon"><i class="fa-brands fa-instagram fa-2xl" style="color: #2d2d39;"></i></a>
+                                    <a href="" class="icon mx-3"><i class="fa-brands fa-facebook fa-2xl" style="color: #2d2d39;"></i></a>
+                                    <a href="" class="icon"><i class="fa-brands fa-github fa-2xl" style="color: #2d2d39;"></i></a>
+                                    <a href="" class="icon mx-3"><i class="fa-brands fa-linkedin fa-2xl" style="color: #2d2d39;"></i></a>
                                 </div>
                                 <div class="down-resume mt-4">
                                     <a href="" style="text-decoration: none; color:#2d2d39"><i class="fa-solid fa-file-arrow-down fa-2xl me-2" style="color: #FFB100"></i>Download Resume</a>

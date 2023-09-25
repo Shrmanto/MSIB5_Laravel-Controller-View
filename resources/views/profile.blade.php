@@ -91,8 +91,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6 d-flex justify-content-center">
-                        <img src="{{asset('assets/img/profilehome.png')}}" alt="" width="30%" class="profile pt-5">
-                        <img src="{{asset('assets/img/blob-1.svg')}}" alt="" width="50%" class="bg-edit">
+                        <img src="{{asset('assets/img/profilehome.png')}}" alt="" width="30%" class="profile pt-xl-5 pt-lg-5 d-xl-block d-lg-block d-md-none d-sm-none d-none">
+                        <img src="{{asset('assets/img/blob-1.svg')}}" alt="" width="50%" class="bg-edit d-xl-block d-lg-block d-md-none d-sm-none d-none">
                     </div>
                 </div>
             </div>
