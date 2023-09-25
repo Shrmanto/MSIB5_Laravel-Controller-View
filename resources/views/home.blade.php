@@ -24,13 +24,13 @@
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="{{route('home')}}">Home</a>
                     </li>
-                    <li class="nav-item mx-3">
+                    <li class="nav-item mx-xl-3 mx-lg-3 mx-0">
                         <a class="nav-link" href="{{route('profile')}}">Profile</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{route('univ')}}">University</a>
                     </li>
-                    <button class="btn ms-3 rounded-0"><i class="fa-solid fa-envelope" style="color: #ffffff;"></i></button>
+                    <button class="btn ms-xl-3 ms-lg-3 ms-0 rounded-0"><i class="fa-solid fa-envelope" style="color: #ffffff;"></i></button>
                 </ul>
             </div>
         </div>
@@ -38,7 +38,7 @@
 
     <section id="hero">
         <div class="jdl">
-            <div class="content-img d-flex justify-content-center align-items-center" style="min-height: 100vh">
+            <div class="content-img d-flex justify-content-xl-center justify-content-lg-center align-items-xl-center align-items-lg-center" style="min-height: 100vh">
                 <div class="container text-overlay d-flex align-items-center" style="min-height: 100vh">
                     <div class="row">
                         <div class="col-xl-4 col-lg-4 col-12">
@@ -65,8 +65,8 @@
                         </div>
                     </div>
                 </div>
-                <img src="{{asset('assets/img/profilehome.png')}}" alt="" width="30%" class="profile">
-                <img src="{{asset('assets/img/blob-1.svg')}}" alt="" width="55%" class="bg-edit">
+                <img src="{{asset('assets/img/profilehome.png')}}" alt="" width="30%" class="profile d-xl-block d-lg-block d-md-none d-sm-none d-none">
+                <img src="{{asset('assets/img/blob-1.svg')}}" alt="" width="55%" class="bg-edit d-xl-block d-lg-block d-md-none d-sm-none d-none    ">
             </div>
         </div>
     </section>

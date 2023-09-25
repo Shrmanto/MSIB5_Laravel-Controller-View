@@ -24,13 +24,13 @@
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="{{route('home')}}">Home</a>
                     </li>
-                    <li class="nav-item mx-3">
+                    <li class="nav-item mx-xl-3 mx-lg-3 mx-0">
                         <a class="nav-link" href="{{route('profile')}}">Profile</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{route('univ')}}">University</a>
                     </li>
-                    <button class="btn ms-3 rounded-0"><i class="fa-solid fa-envelope" style="color: #ffffff;"></i></button>
+                    <button class="btn ms-xl-3 ms-lg-3 ms-0 rounded-0"><i class="fa-solid fa-envelope" style="color: #ffffff;"></i></button>
                 </ul>
             </div>
         </div>
