@@ -49,7 +49,7 @@
                 <p>Baru semenjak tahun 1986, rektor Universitas Jember dijabat oleh sivitas akademika-nya sendiri, yakni oleh Prof. Dr. Simanhadi Widyaprakosa (1986-1995), Prof. Dr. Kabul Santoso, MS (1995-2003), Dr. Ir. T. Sutikto, MSc (2003-2011), Drs. Moh. Hasan, Msc Ph.D. (2012-2020) dan Dr. Ir. Iwan Taruna, M.Eng. (2020 sampai sekarang)</p>
             </div>
             <div class="row">
-                <div class="col-xl-6">
+                <div class="col-xl-6 col-lg-6 col-12">
                     <div class="visi text-center">
                         <div class="title">
                             <h1>Visi</h1>
@@ -60,7 +60,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
+                <div class="col-xl-6 col-lg-6 col-12 mt-xl-0 mt-lg-0 mt-4">
                     <div class="misi">
                         <div class="title">
                             <h1 class="text-center">Misi</h1>
@@ -75,7 +75,7 @@
                     </div>
                 </div>
             </div>
-            <div class="maps-univ mt-xl-5 mt-lg-5 mt-md-3 mt-sm-3 mt-3">
+            <div class="maps-univ mt-xl-5 mt-lg-5 mt-md-4 mt-sm-4 mt-4">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.3726648355982!2d113.7138380747435!3d-8.165157591865626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd694351d727e69%3A0xec33c34804a10832!2sUniversitas%20Jember!5e0!3m2!1sid!2sid!4v1695574287143!5m2!1sid!2sid" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
